@@ -1,0 +1,11 @@
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\bin\Debug\netcoreapp3.1\MyFirstAppC.exe
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\bin\Debug\netcoreapp3.1\MyFirstAppC.deps.json
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\bin\Debug\netcoreapp3.1\MyFirstAppC.runtimeconfig.json
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\bin\Debug\netcoreapp3.1\MyFirstAppC.runtimeconfig.dev.json
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\bin\Debug\netcoreapp3.1\MyFirstAppC.dll
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\bin\Debug\netcoreapp3.1\MyFirstAppC.pdb
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\obj\Debug\netcoreapp3.1\MyFirstAppC.csprojAssemblyReference.cache
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\obj\Debug\netcoreapp3.1\MyFirstAppC.AssemblyInfoInputs.cache
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\obj\Debug\netcoreapp3.1\MyFirstAppC.AssemblyInfo.cs
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\obj\Debug\netcoreapp3.1\MyFirstAppC.dll
+C:\Users\silvaama\source\repos\MyFirstAppC\MyFirstAppC\obj\Debug\netcoreapp3.1\MyFirstAppC.pdb
